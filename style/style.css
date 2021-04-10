@@ -7,6 +7,10 @@
 .burger-button {
     display: none;
 }
+.burg {
+    padding: 7px;
+    z-index: 100;
+}
 .burger-button span {
     display: block;
     width: 30px;
